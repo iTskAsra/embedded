@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.21)  21 FEB 2023 20:23
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.21)  28 FEB 2023 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -569,27 +569,18 @@ File: sharif.png Graphic file (type bmp)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 42.
-File: ariane5.jpg Graphic file (type bmp)
-<ariane5.jpg>
-Package mdframed Info: Not enough space on this page on input line 48.
- [1]
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 51.
-File: 737max.jpg Graphic file (type bmp)
-<737max.jpg>
-Package mdframed Info: Not enough space on this page on input line 57.
- [2] (./main.aux)
+Package mdframed Info: Not enough space on this page on input line 49.
+ [1] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12064 strings out of 476179
- 193203 string characters out of 5809544
- 510472 words of memory out of 5000000
- 32642 multiletter control sequences out of 15000+600000
+ 12046 strings out of 476179
+ 192951 string characters out of 5809544
+ 510470 words of memory out of 5000000
+ 32627 multiletter control sequences out of 15000+600000
  469667 words of font info for 35 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,11n,77p,590b,389s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,11n,77p,480b,339s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (3 pages).
+Output written on main.pdf (2 pages).
